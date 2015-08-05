@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1434066153 source:c:\users\monorama\google drive\college\00.summer'15\hw\1-point\point\main.cpp
+	<iostream>
+	"point.h"
+
+1434065873 c:\users\monorama\google drive\college\00.summer'15\hw\1-point\point\include\point.h
+
+1434065873 source:c:\users\monorama\google drive\college\00.summer'15\hw\1-point\point\src\point.cpp
+	"point.h"
+	<cmath>
+
